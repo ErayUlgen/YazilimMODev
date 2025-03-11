@@ -1,5 +1,5 @@
-1-Keşfet
-2-Fotoğraf ve Video Paylaşma
 3-Hikayeler
+2-Fotoğraf ve Video Paylaşma
+1-Kesfet
 4-Mesajlaşma
 5-Canlı Yayın
