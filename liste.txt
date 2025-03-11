@@ -1,5 +1,4 @@
 1-Keşfet
 2-Fotoğraf ve Video Paylaşma
-3-Hikayeler
-4-Mesajlaşma
-5-Canlı Yayın
+3-Mesajlaşma
+4-Canlı Yayın
